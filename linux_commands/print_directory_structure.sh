@@ -16,6 +16,6 @@ mkdir backup
 mkdir transfer
 cd logs
 cp vsftpd1.log /home/crio-user/workspace/QBox/backup
-cd -
+cd ../
 tree
 
