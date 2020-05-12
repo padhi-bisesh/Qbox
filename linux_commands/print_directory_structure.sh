@@ -10,5 +10,12 @@
     # 3) Execute the script before submission and confirm the output. Delete the created directories/files, if any, before testing the script
 
 
-
+cd ~
+cd workspace/QBox
+mkdir backup
+mkdir transfer
+cd logs
+cp vsftpd1.log /home/crio-user/workspace/QBox/backup
+cd -
+tree
 
