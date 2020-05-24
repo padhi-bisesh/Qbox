@@ -1,2 +1,4 @@
 for version 2 : during download ,the server used to crash , thus the vsftpd process is 
+zombied
+for version 3 : during download ,the server used to crash , thus the vsftpd process is 
 zombied 
