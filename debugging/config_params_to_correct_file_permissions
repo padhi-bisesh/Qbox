@@ -1,0 +1,4 @@
+local_umask
+anon_upload_enable
+anon_mkdir_write_enable
+file_open_mode

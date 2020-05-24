@@ -1,0 +1,2 @@
+for version 5 : regardless of file size every consecutive transfer lead to an constant
+increase in RES memory of 9.8 Mb compared to 0 Mb for benchmark version
